@@ -1,0 +1,22 @@
+html body {
+    margin: 0;
+    padding: 0;
+}
+
+.boldonse-regular {
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+}
+
+.oswald {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.oswald-bold {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: bold;
+  font-style: normal;
+}
