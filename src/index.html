@@ -16,7 +16,7 @@
         <div class="description oswald-bold">
             <p class="main-desc">
                 Welcome to the Bio Game Show! Do you have what it takes to beat the robot? Answer as many questions
-                correctly as you can in 10 seconds, and if you beat the robot, you will be crowned champion!
+                correctly as you can, and if you beat the robot, you will be crowned champion!
             </p>
             <div class="main-desc-bullet">
                 <p>Topics Covered:</p>
@@ -34,6 +34,13 @@
     </div>
 
 </div>
+<div id="toast-container">
+    <div class="answer-toast">
+        <h1 id="correct-incorrect" class="boldonse-regular">Correct!</h1>
+        <p id="incorrect-desc" class="oswald-bold"></p>
+        <button id="next-question" class="boldonse-regular">NEXT QUESTION</button>
+    </div>
+</div>
 <div id="game-container">
     <div id="game">
         <h1 id="question-title" class="boldonse-regular"></h1>
@@ -44,6 +51,13 @@
             <button class="question-button boldonse-regular" id="button-2"></button>
             <button class="question-button boldonse-regular" id="button-3"></button>
         </div>
+    </div>
+</div>
+<div id="end-container">
+    <div class="end-screen">
+        <h1 id="end-title" class="boldonse-regular"></h1>
+        <p id="end-desc" class="oswald-bold"></p>
+        <button id="play-again" class="boldonse-regular">PLAY AGAIN</button>
     </div>
 </div>
 <script src="index.js"></script>

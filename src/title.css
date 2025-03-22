@@ -11,7 +11,7 @@
 .start-menu {
     width: min(900px, calc(100vw - 40px));
     backdrop-filter: blur(20px);
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: white;
     border-radius: 50px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     display: flex;
@@ -64,7 +64,7 @@
     font-size: 30px;
     border: none;
     border-radius: 10px;
-    background-color: rgb(83, 173, 215);
+    background-color: #18a9f2;
     padding: 10px 40px;
 
     transition: 0.1s;
