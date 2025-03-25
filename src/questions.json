@@ -1,22 +1,102 @@
 {
   "question 1": {
-    "question": "question test1",
-    "answers": ["first1", "second", "third", "fourth"],
-    "correct": 1
+    "question": "What is the process by which DNA is copied into mRNA called?",
+    "answers": ["Translation", "Transcription", "Replication", "Translocation"],
+    "correct": 2
   },
   "question 2": {
-    "question": "question test1",
-    "answers": ["first2", "second", "third", "fourth"],
-    "correct": 1
+    "question": "Which molecule carries amino acids to the ribosome during translation?",
+    "answers": ["mRNA", "tRNA", "rRNA", "DNA"],
+    "correct": 2
   },
   "question 3": {
-    "question": "question test1",
-    "answers": ["first3", "second", "third", "fourth"],
+    "question": "What is the name of the three-nucleotide sequence on mRNA that codes for an amino acid?",
+    "answers": ["Codon", "Anticodon", "Exon", "Intron"],
     "correct": 1
   },
   "question 4": {
-    "question": "question test1",
-    "answers": ["first4", "second", "third", "fourth"],
+    "question": "Where does translation occur in eukaryotic cells?",
+    "answers": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+    "correct": 2
+  },
+  "question 5": {
+    "question": "What is the first amino acid in most newly synthesized proteins?",
+    "answers": ["Glycine", "Methionine", "Alanine", "Valine"],
+    "correct": 2
+  },
+  "question 6": {
+    "question": "Which enzyme is responsible for synthesizing mRNA from a DNA template?",
+    "answers": ["DNA polymerase", "RNA polymerase", "Ligase", "Helicase"],
+    "correct": 2
+  },
+  "question 7": {
+    "question": "What is the region of a gene where RNA polymerase binds to initiate transcription?",
+    "answers": ["Promoter", "Enhancer", "Operator", "Terminator"],
     "correct": 1
+  },
+  "question 8": {
+    "question": "What is the function of ribosomes during protein synthesis?",
+    "answers": ["Replicate DNA", "Translate mRNA into protein", "Splice introns", "Store genetic information"],
+    "correct": 2
+  },
+  "question 9": {
+    "question": "What is the role of the stop codon in translation?",
+    "answers": ["Initiates translation", "Signals the end of translation", "Marks the start of transcription", "Codes for methionine"],
+    "correct": 2
+  },
+  "question 10": {
+    "question": "Which of the following is NOT involved in translation?",
+    "answers": ["mRNA", "tRNA", "DNA", "Ribosome"],
+    "correct": 3
+  },
+  "question 11": {
+    "question": "What is the term for the non-coding regions of a gene that are removed during mRNA processing?",
+    "answers": ["Exons", "Introns", "Codons", "Anticodons"],
+    "correct": 2
+  },
+  "question 12": {
+    "question": "Which cellular organelle is primarily responsible for protein synthesis?",
+    "answers": ["Nucleus", "Ribosome", "Golgi apparatus", "Mitochondria"],
+    "correct": 2
+  },
+  "question 13": {
+    "question": "Which type of RNA forms the structural and functional core of the ribosome?",
+    "answers": ["mRNA", "tRNA", "rRNA", "siRNA"],
+    "correct": 3
+  },
+  "question 14": {
+    "question": "What happens during elongation in translation?",
+    "answers": ["The ribosome assembles", "The mRNA is copied into DNA", "Amino acids are added to the growing polypeptide chain", "The process stops at the stop codon"],
+    "correct": 3
+  },
+  "question 15": {
+    "question": "What is the role of the poly-A tail on eukaryotic mRNA?",
+    "answers": ["Initiates transcription", "Prevents mRNA degradation", "Acts as a stop codon", "Assists in DNA replication"],
+    "correct": 2
+  },
+  "question 16": {
+    "question": "Which molecule provides the energy required for translation?",
+    "answers": ["ATP", "GTP", "NADH", "FADH2"],
+    "correct": 2
+  },
+  "question 17": {
+    "question": "Which of the following base pairs is found in RNA but NOT in DNA?",
+    "answers": ["A-T", "G-C", "A-U", "C-G"],
+    "correct": 3
+  },
+  "question 18": {
+    "question": "What is the name of the bond that links amino acids together in a protein chain?",
+    "answers": ["Glycosidic bond", "Peptide bond", "Hydrogen bond", "Phosphodiester bond"],
+    "correct": 2
+  },
+  "question 19": {
+    "question": "Which step occurs first in protein synthesis?",
+    "answers": ["tRNA binds to the mRNA", "mRNA leaves the nucleus", "Peptide bonds form", "Ribosome attaches to mRNA"],
+    "correct": 2
+  },
+  "question 20": {
+    "question": "What is the function of the release factor in translation?",
+    "answers": ["Joins amino acids together", "Cleaves the peptide chain from the ribosome", "Releases mRNA from the nucleus", "Binds to the promoter region"],
+    "correct": 2
   }
 }
