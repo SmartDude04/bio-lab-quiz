@@ -98,5 +98,55 @@
     "question": "What is the function of the release factor in translation?",
     "answers": ["Joins amino acids together", "Cleaves the peptide chain from the ribosome", "Releases mRNA from the nucleus", "Binds to the promoter region"],
     "correct": 1
+  },
+  "question 21": {
+    "question": "What is the primary function of microRNAs (miRNAs)?",
+    "answers": ["Promote DNA replication", "Regulate gene expression by silencing mRNA", "Catalyze protein synthesis", "Bind to ribosomes to assist translation"],
+    "correct": 1
+  },
+  "question 22": {
+    "question": "Which of the following is a type of noncoding RNA involved in splicing?",
+    "answers": ["miRNA", "tRNA", "snRNA", "rRNA"],
+    "correct": 2
+  },
+  "question 23": {
+    "question": "What is the primary role of long noncoding RNAs (lncRNAs)?",
+    "answers": ["Code for large proteins", "Serve as templates for tRNA synthesis", "Regulate gene expression through chromatin modification", "Assist in mRNA translation"],
+    "correct": 2
+  },
+  "question 24": {
+    "question": "What does N6-methyladenosine (m6A) modification affect in mRNA?",
+    "answers": ["Transcription speed", "mRNA stability and translation efficiency", "Ribosome binding", "DNA replication accuracy"],
+    "correct": 1
+  },
+  "question 25": {
+    "question": "Which enzyme is responsible for adding m6A modifications to mRNA?",
+    "answers": ["m6A demethylase", "RNA ligase", "m6A methyltransferase", "RNA helicase"],
+    "correct": 2
+  },
+  "question 26": {
+    "question": "Which noncoding RNA plays a role in regulating X-chromosome inactivation?",
+    "answers": ["siRNA", "XIST RNA", "piRNA", "tRNA"],
+    "correct": 1
+  },
+  "question 27": {
+    "question": "What is the role of m6A demethylases in mRNA regulation?",
+    "answers": ["Add methyl groups to adenosine", "Stabilize mRNA", "Remove m6A modifications", "Transport mRNA to the ribosome"],
+    "correct": 2
+  },
+  "question 28": {
+    "question": "Which type of ncRNA is involved in the defense against transposable elements?",
+    "answers": ["miRNA", "piRNA", "rRNA", "snRNA"],
+    "correct": 1
+  },
+  "question 29": {
+    "question": "How does m6A modification influence mRNA decay?",
+    "answers": ["Increases mRNA stability", "Decreases mRNA stability", "Prevents mRNA degradation", "Promotes mRNA translation"],
+    "correct": 1
+  },
+  "question 30": {
+    "question": "Which cellular process is directly influenced by m6A modifications?",
+    "answers": ["DNA replication", "Transcription initiation", "mRNA splicing and translation", "Protein degradation"],
+    "correct": 2
   }
 }
